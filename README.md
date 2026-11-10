@@ -130,8 +130,6 @@ All endpoints, validations, and payment flows are fully implemented as per the g
 ✔ Ready for evaluation and submission  
 
 ---
-
-## 👤 Author
-
-**Sai Divya Saparapu**
-
+   ## 👤 Author
+   **Nikhila Reddy**
+   [GitHub](https://github.com/ReddyNikhila) | [LinkedIn](https://www.linkedin.com/in/nikhila-reddy-b64b60290/)
